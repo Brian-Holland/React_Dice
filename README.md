@@ -11,3 +11,4 @@ Basic React game allowing users to roll 2 independent dice.
 ### Features
 
 -   State management
+-   Class component usage
